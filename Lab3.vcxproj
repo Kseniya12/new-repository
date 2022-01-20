@@ -147,28 +147,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task1.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task1.ixx" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task2.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task2.ixx" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task3.a.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task3.f1.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task3.f2.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task3.f3.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task3.f4.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task3.ixx" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task4.a.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task4.a.ixx" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task4.f1.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task4.f1.ixx" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task4.f2.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task4.f2.ixx" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task4.f3.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task4.f3.ixx" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task4.f4.cpp" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task4.f4.ixx" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task4.ixx" />
-    <ClCompile Include="BPZ1902.Mgebrishvili.Lab3.Task5.ixx" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task1.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task1.ixx" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task2.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task2.ixx" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task3.a.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task3.f1.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task3.f2.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task3.f3.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task3.f4.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task3.ixx" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task4.a.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task4.a.ixx" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task4.f1.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task4.f1.ixx" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task4.f2.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task4.f2.ixx" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task4.f3.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task4.f3.ixx" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task4.f4.cpp" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task4.f4.ixx" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task4.ixx" />
+    <ClCompile Include="BPZ1901.Nezhivleva.Lab3.Task5.ixx" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
